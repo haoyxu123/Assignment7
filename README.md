@@ -1,7 +1,6 @@
 # Assignment7 An Exerice in Automated Programming
 
-#Using library Jennifer to automatically generate loadCSV function
-I successfully generater the function loacCSV by using Jennifer. I created a file called test_generator.go and after running this, the loadcsv_test.go will be generated successfully. Then I can run this file to read the csv. 
+#Using Jennifer library to automatically generate codes. The file I created is called gen_main.go and this file is used to automatically generate codes which has the exact same functions with the main.go file which under the main_f dictionary. After running the gen_main.go file, it will create main_gen.go file automatically and run the automatical generated file will get the same results as the main.go file does. 
 
 #AI-assisted Programming
 I downloaded the Github Copilot. When I try to write some simple codes or the codes I mentioned above serveral times, the copilot will help me automatically refill and all I have to do is press the enter buttom and this saves me a lot of time. 
