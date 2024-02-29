@@ -1,5 +1,5 @@
 # Assignment7 An Exerice in Automated Programming
-# Using Jennifer library to automatically generate codes
+## Using Jennifer library to automatically generate codes
 
 All codes and previous work are saved in folder Assignment7. When open the Assign7 folder, there are cmd and pkg two folders. I break down previous work into three parts. Keep the main function in the cmd folder. LoadCSV function and plotregression function are separated saved in the pkg folder. This will be easier for me to use these two functions in my other files. In the cmd folder, the original main.go file is saved under main_f folder, and the file I created is called gen_main.go and this file is used to automatically generate codes which has the exact same functions with the main.go file. After running the gen_main.go file, it will create main_gen.go file automatically and run the automatical generated file will get the same results as the main.go file does. 
 
